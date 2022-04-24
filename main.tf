@@ -15,7 +15,7 @@ terraform {
     }
   }
 }
-resource "aws_s3_bucket" "onebucket" {
-   bucket = "sudo-testing-s3-with-terraform"
+resource "aws_s3_bucket" "onebucket22" {
+   bucket = "sudo-testing-s3-with-terraform-newdas"
 
 }
