@@ -1,3 +1,2 @@
-[default]
 aws_access_key_id = AKIAX2NHP63PDIRRNFUV
 aws_secret_access_key = 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
