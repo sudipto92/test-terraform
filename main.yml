@@ -9,7 +9,7 @@ terraform {
   }
 
   cloud {
-    organization = "nuclueus-software"
+    organization = "nucleus-software"
 
     workspaces {
       name = "tests-githubaction"
